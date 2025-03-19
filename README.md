@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kickevnzla" alt="kickevnzla" /></a> </p>
 
-- 🔭 I’m currently working on [My final University project](https://github.com/Kickevnzla/Zelf)
-
+- 🔭 I’m currently open to work
+  
 - 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **Web development projects**
